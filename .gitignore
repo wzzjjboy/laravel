@@ -4,3 +4,6 @@ Homestead.yaml
 Homestead.json
 .env
 .idea/
+composer.bat
+php.bat
+composer.phar
